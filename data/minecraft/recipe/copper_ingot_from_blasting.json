@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:spyglass",
+    "minecraft:copper_trapdoor",
+    "minecraft:copper_door",
+    "minecraft:lightning_rod"
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}
