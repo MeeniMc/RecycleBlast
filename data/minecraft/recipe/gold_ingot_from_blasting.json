@@ -16,7 +16,8 @@
     "minecraft:golden_horse_armor",
     "minecraft:light_weighted_pressure_plate",
     "minecraft:powered_rail",
-    "minecraft:clock"
+    "minecraft:clock",
+    "minecraft:bell"
   ],
   "result": {
     "id": "minecraft:gold_ingot"
