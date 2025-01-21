@@ -14,7 +14,7 @@ license
 
 Contact me if you have commercial plans.
 
-  [Recycle Blast Datapack for Minecraft]: https://github.com/MeeniMc/recycle-blast
+  [Recycle Blast Datapack for Minecraft]: https://modrinth.com/datapack/recycle-blast
   [MeeniMC]: https://github.com/MeeniMc
   [1]: https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1
   [2]: https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1
