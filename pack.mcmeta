@@ -48,7 +48,7 @@
         "directory": "1.21.11-current",
         "min_format": 89,
         "max_format": 2147483647,
-        "formats": [82, 2147483647]
+        "formats": [89, 2147483647]
       }
     ]
   }

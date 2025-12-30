@@ -37,7 +37,17 @@
     "minecraft:waxed_lightning_rod",
     "minecraft:waxed_exposed_lightning_rod",
     "minecraft:waxed_weathered_lightning_rod",
-    "minecraft:waxed_oxidized_lightning_rod"
+    "minecraft:waxed_oxidized_lightning_rod",
+    "minecraft:copper_pickaxe",
+    "minecraft:copper_axe",
+    "minecraft:copper_hoe",
+    "minecraft:copper_sword",
+    "minecraft:copper_shovel",
+    "minecraft:copper_helmet",
+    "minecraft:copper_chestplate",
+    "minecraft:copper_leggings",
+    "minecraft:copper_boots",
+    "minecraft:copper_horse_armor"
   ],
   "result": {
     "id": "minecraft:copper_ingot"
