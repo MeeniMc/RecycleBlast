@@ -4,7 +4,7 @@
     "supported_formats": [15, 94],
     "min_format": 15,
     "max_format": 94,
-    "description": "§6RecycleBlast§r: §oBlast Recycle Metallic Items\n §2v1.88.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/recycle-blast"
+    "description": "§6RecycleBlast§r: §oBlast Recycle Metallic Items\n §2v1.94.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/recycle-blast"
   },
   "filter": {
     "block": [{
