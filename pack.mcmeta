@@ -6,6 +6,12 @@
     "max_format": 94,
     "description": "§6RecycleBlast§r: §oBlast Recycle Metallic Items\n §2v1.88.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/recycle-blast"
   },
+  "filter": {
+    "block": [{
+      "namespace": "minecraft",
+      "path": "recipes/.*_nugget_from_blasting"
+    }]
+  },
   "overlays":{
     "entries": [
       {
