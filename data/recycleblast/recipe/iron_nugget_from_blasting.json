@@ -10,8 +10,7 @@
     "minecraft:chainmail_leggings",
     "minecraft:chainmail_boots",
     "minecraft:rail",
-    "minecraft:iron_bars",
-    "minecraft:chain"
+    "minecraft:iron_bars"
   ],
   "result": {
     "id": "minecraft:iron_nugget"
