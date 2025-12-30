@@ -5,10 +5,6 @@
   "experience": 0.1,
   "ingredient": [
     "minecraft:flint_and_steel",
-    "minecraft:chainmail_helmet",
-    "minecraft:chainmail_chestplate",
-    "minecraft:chainmail_leggings",
-    "minecraft:chainmail_boots",
     "minecraft:rail",
     "minecraft:iron_bars"
   ],
