@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {"item": "minecraft:iron_pickaxe"},
+    {"item": "minecraft:iron_axe"},
+    {"item": "minecraft:iron_hoe"},
+    {"item": "minecraft:iron_sword"},
+    {"item": "minecraft:iron_shovel"},
+    {"item": "minecraft:iron_helmet"},
+    {"item": "minecraft:iron_chestplate"},
+    {"item": "minecraft:iron_leggings"},
+    {"item": "minecraft:iron_boots"},
+    {"item": "minecraft:iron_horse_armor"},
+    {"item": "minecraft:bucket"},
+    {"item": "minecraft:shears"},
+    {"item": "minecraft:crossbow"},
+    {"item": "minecraft:compass"},
+    {"item": "minecraft:heavy_weighted_pressure_plate"},
+    {"item": "minecraft:iron_trapdoor"},
+    {"item": "minecraft:iron_door"},
+    {"item": "minecraft:chain"},
+    {"item": "minecraft:activator_rail"},
+    {"item": "minecraft:detector_rail"},
+    {"item": "minecraft:minecart"}
+  ],
+  "result": "minecraft:iron_ingot"
+}

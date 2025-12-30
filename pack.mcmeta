@@ -1,7 +1,43 @@
 {
-  "pack": {
-    "pack_format": 48,
-    "supported_formats": [48, 61],
-    "description": "§6RecycleBlast§r: §oBlast Recycle Metallic Items\n §2v1.61.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/recycle-blast"
+  "pack":{
+    "pack_format": 15,
+    "supported_formats": [15, 94],
+    "min_format": 15,
+    "max_format": 94,
+    "description": "§6RecycleBlast§r: §oBlast Recycle Metallic Items\n §2v1.88.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/recycle-blast"
+  },
+  "overlays":{
+    "entries": [
+      {
+        "directory": "1.20.5-1.20.6",
+        "min_format": 34,
+        "max_format": 42,
+        "formats": [34, 42]
+      },
+      {
+        "directory": "1.21-1.21.1",
+        "min_format": 43,
+        "max_format": 48,
+        "formats": [43, 48]
+      },
+      {
+        "directory": "1.21.2-current",
+        "min_format": 49,
+        "max_format": 2147483647,
+        "formats": [49, 2147483647]
+      },
+      {
+        "directory": "1.21.2-1.21.8",
+        "min_format": 49,
+        "max_format": 81,
+        "formats": [49, 81]
+      },
+      {
+        "directory": "1.21.9-current",
+        "min_format": 82,
+        "max_format": 2147483647,
+        "formats": [82, 2147483647]
+      }
+    ]
   }
 }
