@@ -5,6 +5,7 @@
   "experience": 0.1,
   "ingredient": [
     "minecraft:spyglass",
+    "minecraft:brush",
     "minecraft:copper_trapdoor",
     "minecraft:exposed_copper_trapdoor",
     "minecraft:weathered_copper_trapdoor",
