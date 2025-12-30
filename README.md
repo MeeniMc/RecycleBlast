@@ -1,5 +1,5 @@
-Recycle Leather
-===============
+Recycle Blast
+=============
 
 Recycle Blast is a Datapack for Minecraft that adds recipes for scrapping metal armor pieces, horse armors, tools, and rails.
 
