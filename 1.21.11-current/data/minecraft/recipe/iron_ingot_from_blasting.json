@@ -9,15 +9,17 @@
     "minecraft:iron_hoe",
     "minecraft:iron_sword",
     "minecraft:iron_shovel",
+    "minecraft:iron_spear",
     "minecraft:iron_helmet",
     "minecraft:iron_chestplate",
     "minecraft:iron_leggings",
     "minecraft:iron_boots",
-    "minecraft:iron_horse_armor",
     "minecraft:chainmail_helmet",
     "minecraft:chainmail_chestplate",
     "minecraft:chainmail_leggings",
     "minecraft:chainmail_boots",
+    "minecraft:iron_horse_armor",
+    "minecraft:iron_nautilus_armor",
     "minecraft:bucket",
     "minecraft:shears",
     "minecraft:crossbow",
@@ -28,9 +30,7 @@
     "minecraft:iron_chain",
     "minecraft:activator_rail",
     "minecraft:detector_rail",
-    "minecraft:minecart",
-    "minecraft:iron_spear",
-    "minecraft:iron_nautilus_armor"
+    "minecraft:minecart"
   ],
   "result": {
     "id": "minecraft:iron_ingot"
