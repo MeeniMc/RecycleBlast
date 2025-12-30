@@ -27,10 +27,10 @@
         "formats": [43, 48]
       },
       {
-        "directory": "1.21.2-current",
+        "directory": "1.21.2-1.21.10",
         "min_format": 49,
-        "max_format": 2147483647,
-        "formats": [49, 2147483647]
+        "max_format": 88,
+        "formats": [49, 88]
       },
       {
         "directory": "1.21.2-1.21.8",
@@ -39,8 +39,14 @@
         "formats": [49, 81]
       },
       {
-        "directory": "1.21.9-current",
+        "directory": "1.21.9-1.21.10",
         "min_format": 82,
+        "max_format": 88,
+        "formats": [82, 88]
+      },
+      {
+        "directory": "1.21.11-current",
+        "min_format": 89,
         "max_format": 2147483647,
         "formats": [82, 2147483647]
       }
