@@ -19,5 +19,7 @@
     {"item": "minecraft:clock"},
     {"item": "minecraft:bell"}
   ],
-  "result": "minecraft:gold_ingot"
+  "result": {
+    "id": "minecraft:gold_ingot"
+  }
 }

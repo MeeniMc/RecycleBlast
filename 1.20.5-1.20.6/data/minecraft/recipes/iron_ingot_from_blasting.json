@@ -26,5 +26,7 @@
     {"item": "minecraft:detector_rail"},
     {"item": "minecraft:minecart"}
   ],
-  "result": "minecraft:iron_ingot"
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
 }
