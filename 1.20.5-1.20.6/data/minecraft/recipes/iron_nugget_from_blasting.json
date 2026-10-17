@@ -4,11 +4,15 @@
   "cookingtime": 100,
   "experience": 0.1,
   "ingredient": [
-    {"item": "minecraft:flint_and_steel"},
-    {"item": "minecraft:rail"},
-    {"item": "minecraft:iron_bars"}
+    {
+      "item": "minecraft:flint_and_steel"
+    },
+    {
+      "item": "minecraft:rail"
+    },
+    {
+      "item": "minecraft:iron_bars"
+    }
   ],
-  "result": {
-    "id": "minecraft:iron_nugget"
-  }
+  "result": "minecraft:iron_nugget"
 }

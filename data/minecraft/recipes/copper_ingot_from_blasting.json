@@ -4,8 +4,12 @@
   "cookingtime": 100,
   "experience": 0.1,
   "ingredient": [
-    {"item": "minecraft:spyglass"},
-    {"item": "minecraft:lightning_rod"}
+    {
+      "item": "minecraft:spyglass"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    }
   ],
   "result": "minecraft:copper_ingot"
 }
