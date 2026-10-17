@@ -14,5 +14,7 @@
       "item": "minecraft:iron_bars"
     }
   ],
-  "result": "minecraft:iron_nugget"
+  "result": {
+    "id": "minecraft:iron_nugget"
+  }
 }

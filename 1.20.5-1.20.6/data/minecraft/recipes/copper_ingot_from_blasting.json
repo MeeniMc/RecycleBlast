@@ -62,5 +62,7 @@
       "item": "minecraft:waxed_oxidized_copper_door"
     }
   ],
-  "result": "minecraft:copper_ingot"
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
 }

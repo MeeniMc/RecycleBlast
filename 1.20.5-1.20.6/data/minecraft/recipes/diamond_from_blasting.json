@@ -35,5 +35,7 @@
       "item": "minecraft:diamond_horse_armor"
     }
   ],
-  "result": "minecraft:diamond"
+  "result": {
+    "id": "minecraft:diamond"
+  }
 }
