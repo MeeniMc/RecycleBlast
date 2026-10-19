@@ -1,0 +1,505 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_brush": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:brush"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_chestplate"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_helmet"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_hoe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_hoe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_horse_armor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_horse_armor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_leggings"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_shovel": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_shovel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_trapdoor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_exposed_copper_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:exposed_copper_chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_exposed_copper_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:exposed_copper_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_exposed_copper_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:exposed_copper_trapdoor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_exposed_lightning_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:exposed_lightning_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_lightning_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:lightning_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_oxidized_copper_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_copper_chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_oxidized_copper_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_copper_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_oxidized_copper_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_copper_trapdoor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_oxidized_lightning_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_lightning_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_spyglass": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:spyglass"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:copper_ingot_from_blasting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_waxed_copper_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_copper_chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_copper_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_copper_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_copper_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_copper_trapdoor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_exposed_copper_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_exposed_copper_chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_exposed_copper_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_exposed_copper_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_exposed_copper_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_exposed_copper_trapdoor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_exposed_lightning_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_exposed_lightning_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_lightning_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_lightning_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_oxidized_copper_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_oxidized_copper_chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_oxidized_copper_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_oxidized_copper_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_oxidized_copper_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_oxidized_copper_trapdoor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_oxidized_lightning_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_oxidized_lightning_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_weathered_copper_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_weathered_copper_chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_weathered_copper_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_weathered_copper_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_weathered_copper_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_weathered_copper_trapdoor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_waxed_weathered_lightning_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:waxed_weathered_lightning_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_weathered_copper_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:weathered_copper_chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_weathered_copper_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:weathered_copper_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_weathered_copper_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:weathered_copper_trapdoor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_weathered_lightning_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:weathered_lightning_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_copper_pickaxe",
+      "has_copper_axe",
+      "has_copper_hoe",
+      "has_copper_sword",
+      "has_copper_shovel",
+      "has_copper_helmet",
+      "has_copper_chestplate",
+      "has_copper_leggings",
+      "has_copper_boots",
+      "has_copper_horse_armor",
+      "has_spyglass",
+      "has_brush",
+      "has_lightning_rod",
+      "has_exposed_lightning_rod",
+      "has_weathered_lightning_rod",
+      "has_oxidized_lightning_rod",
+      "has_waxed_lightning_rod",
+      "has_waxed_exposed_lightning_rod",
+      "has_waxed_weathered_lightning_rod",
+      "has_waxed_oxidized_lightning_rod",
+      "has_copper_trapdoor",
+      "has_exposed_copper_trapdoor",
+      "has_weathered_copper_trapdoor",
+      "has_oxidized_copper_trapdoor",
+      "has_waxed_copper_trapdoor",
+      "has_waxed_exposed_copper_trapdoor",
+      "has_waxed_weathered_copper_trapdoor",
+      "has_waxed_oxidized_copper_trapdoor",
+      "has_copper_door",
+      "has_exposed_copper_door",
+      "has_weathered_copper_door",
+      "has_oxidized_copper_door",
+      "has_waxed_copper_door",
+      "has_waxed_exposed_copper_door",
+      "has_waxed_weathered_copper_door",
+      "has_waxed_oxidized_copper_door",
+      "has_copper_chain",
+      "has_exposed_copper_chain",
+      "has_weathered_copper_chain",
+      "has_oxidized_copper_chain",
+      "has_waxed_copper_chain",
+      "has_waxed_exposed_copper_chain",
+      "has_waxed_weathered_copper_chain",
+      "has_waxed_oxidized_copper_chain"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:copper_ingot_from_blasting"
+    ]
+  }
+}
